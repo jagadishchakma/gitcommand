@@ -1,0 +1,5 @@
+git init
+git add fileName/.(all)
+git commit -m "first commit"
+git remote add origin https://github.com/jagadishchakma/gitcommand.git
+git push -u origin master
